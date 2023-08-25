@@ -9,6 +9,7 @@
 <body>
     <h1>COURS 2</h1>
     <?php
+        //Un beau commentaire en PHP
         $nom = $prenom = $avatar = "";
         $nomErreur = $prenomErreur = $avatarErreur = "";
         $erreur = false;
